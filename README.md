@@ -7,7 +7,7 @@ A stylish scientific calculator built using HTML, CSS, and JavaScript with a bea
 ## 🔍 Preview
 
 live link-
-![Screenshot](screenshot.png) <!-- (Add a screenshot if available) -->
+[https://bikashdasha.github.io/Calculator/)
 
 ---
 
